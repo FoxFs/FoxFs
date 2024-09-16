@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SUSE&weight=900&pause=1000&width=438&height=58&lines=Welcome+to+my+Git!.+Call+me+Yuri.)](https://git.io/typing-svg)
 
-<img src="https://giphy.com/embed/1vh1PXneQqN1e" width="480" height="384" style="" frameBorder="0" class="giphy-embed" href="https://giphy.com/gifs/pizza-himym-barney-stinson-1vh1PXneQqN1e" alt="Pixel Art" align="right" width="200">
+<img src=["https://giphy.com/embed/1vh1PXneQqN1e" width="480" height="384" style="" frameBorder="0" class="giphy-embed" href="https://giphy.com/gifs/pizza-himym-barney-stinson-1vh1PXneQqN1e" ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pkMDY4Y3U2dzB4NHRyMG9kZG5pZjZnOHpmdHZmcWNyYmhmZmRmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vh1PXneQqN1e/giphy.gif) alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
