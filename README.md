@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SUSE&weight=900&pause=1000&width=438&height=58&lines=Welcome+to+my+Git!.+Call+me+Yuri.)](https://git.io/typing-svg)
 
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3anI2Zmh2eWYzYXkxYzI4aHZiYXFqYmZraXM2YmQzOTA0dHF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTxWtmX2b0oH6/giphy.gif)" alt="Pixel Art" align="right" width="200">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3anI2Zmh2eWYzYXkxYzI4aHZiYXFqYmZraXM2YmQzOTA0dHF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTxWtmX2b0oH6/giphy.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
